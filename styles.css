@@ -31,29 +31,29 @@ body {
     background-color: #df7f7f;  
     scale: 110%;
     cursor: grabbing;
-    }
-    .shop {
-        background-color: #8d8888;
-        text-align: center;
-    }
-    .shopItem {
-        background-color: #686262;
-        border-radius: 5px;
-        border: 1px solid black;
-        font-size: 15px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        margin: 2px;
-        transition: 150ms;
-    }
-    .shopItem:hover {
-        background-color: #989191;
-        scale: 105%;
-        cursor: pointer;
-        border-radius: 10px;
-    }
-    .shopItem:active {
-        background-color: #b8b1b1;
-        scale: 110%;
-        cursor: grabbing;
-        border-radius: 15px;
-    }
+}
+.shop {
+    background-color: #8d8888;
+    text-align: center;
+}
+.shopItem {
+    background-color: #686262;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+    transition: 150ms;
+}
+.shopItem:hover {
+    background-color: #989191;
+    scale: 105%;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.shopItem:active {
+    background-color: #b8b1b1;
+    scale: 110%;
+    cursor: grabbing;
+    border-radius: 15px;
+}
