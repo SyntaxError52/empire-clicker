@@ -1,36 +1,36 @@
-    body {
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-        margin: 0;
-        background-color: #8d8888;
-    }
-    .title {
-        font-size: 15px;
-        background-color: gray;
-    }
-    .banner {
-        background-color: #474545;
-        padding: 5px;
-        text-align: center;
-    }
-    #mainBTN {
-        font-size: 75px;
-        background-color: brown;
-        border: 5px solid black;
-        border-radius: 5px;
-        transition: 150ms;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-    #mainBTN:hover {
-        border-radius: 10px;
-        background-color: #c54b4b;  
-        scale: 105%;
-        cursor: pointer;
-    }
-    #mainBTN:active {
-        border-radius: 15px;
-        background-color: #df7f7f;  
-        scale: 110%;
-        cursor: grabbing;
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    background-color: #8d8888;
+}
+.title {
+    font-size: 15px;
+    background-color: gray;
+}
+.banner {
+    background-color: #474545;
+    padding: 5px;
+    text-align: center;
+}
+#mainBTN {
+    font-size: 75px;
+    background-color: brown;
+    border: 5px solid black;
+    border-radius: 5px;
+    transition: 150ms;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#mainBTN:hover {
+    border-radius: 10px;
+    background-color: #c54b4b;  
+    scale: 105%;
+    cursor: pointer;
+}
+#mainBTN:active {
+    border-radius: 15px;
+    background-color: #df7f7f;  
+    scale: 110%;
+    cursor: grabbing;
     }
     .shop {
         background-color: #8d8888;
