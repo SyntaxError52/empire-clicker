@@ -22,6 +22,6 @@ v1.2
 - History Nerd
 - Yea, that's it
 
-### cobblesteave-dev
+### cobblesteve-dev
 - Helped with CSS
 - Good friends with SyntaxError
