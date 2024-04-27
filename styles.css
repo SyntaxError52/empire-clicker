@@ -14,17 +14,17 @@ body {
     text-align: center;
 }
 
-    #mainBTN {
-    font-size: 75px;;
+#mainBTN {
+    font-size: 75px;
     border: 3px solid;
     background-color: rgba(255, 255, 255, 0.132);
     border-radius: 20px;
     transition: 150ms;
-    font-family: "Jersey 15";
+    font-family: "Jersey 15", Verdana, sans-serif;
     width: 400px;
 }
 
-    #mainBTN:hover {
+#mainBTN:hover {
     border-radius: 10px;
     scale: 105%;
     cursor: pointer;
@@ -37,11 +37,11 @@ body {
     cursor: pointer;
 }
 
-    .shop {
+.shop {
     text-align: center;
     font-weight: 200;
     font-size: 25px;
-    font-family: "MinecraftiaRegular";
+    font-family: "Jersey 15", Verdana, sans-serif;
 }
     
 .shopItem {
@@ -49,7 +49,7 @@ body {
     border-radius: 10px;
     border: 1px solid black;
     font-size: 14px;
-    font-family: "MinecraftiaRegular";
+    font-family: "Jersey 15", Verdana, sans-serif;
     margin: 2px;
     transition: 150ms;
     height: 50px;
