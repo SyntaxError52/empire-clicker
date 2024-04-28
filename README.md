@@ -12,7 +12,6 @@ v1.2
 v1.3
 - Added 5th and 6th Shop Item
 - Added Github link
-- Added "BUILD" Option in shop
 ## How to save
 1. Right click and click Inspect
 2. Go to console
