@@ -8,6 +8,10 @@ v1.1
 
 v1.2
 - Better CSS by cobblesteve-dev
+
+v1.3
+- Added 5th and 6th Shop Item
+- Added Github link
 ## How to save
 1. Right click and click Inspect
 2. Go to console
@@ -19,7 +23,7 @@ v1.2
 ### SyntaxError52
 - Created the project
 - Has great ideas
-- History Nerd
+- Likes History
 - Yea, that's it
 
 ### cobblesteve-dev
