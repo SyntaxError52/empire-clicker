@@ -36,7 +36,3 @@ function save(currentCities, citiesPS){
 function genSave(){
   console.log(`To save use type the following code: save(${cities}, ${cps})`)
 }
-
-function redBG(){
-  document.getElementsByTagName('body').style.background = 'tomato';
-}
