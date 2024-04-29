@@ -15,6 +15,9 @@ v1.3
 
 v1.4
 - Added Trade Off lv 1 - 4
+
+v1.4.1
+- Nerfed Trade Offs
 ## How to save
 1. Right click and click Inspect
 2. Go to console
