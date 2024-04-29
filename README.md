@@ -32,3 +32,6 @@ v1.4
 ### cobblesteve-dev
 - Helped with CSS
 - Good friends with SyntaxError
+- Just Better
+- Has over 1,000 subs on YouTube
+- You should subscribe
