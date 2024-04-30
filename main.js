@@ -37,7 +37,7 @@ function genSave(){
   console.log(`To save use type the following code: save(${cities}, ${cps})`)
 }
 
-function tradeOff(cost, gift){
+function tradeOff(gift, cost){
   cities += cost;
   cps -= gift;
   alert('Soul Sold. >:)');
