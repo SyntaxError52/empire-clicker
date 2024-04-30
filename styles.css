@@ -1,5 +1,4 @@
 body {
-    font-family: "Jersey 20";
     margin: 0;
     background-color: #8d8888;
     background-image: url('https://wallpaperwaifu.com/wp-content/uploads/2019/09/pixel-city-thumb.jpg');
@@ -7,7 +6,7 @@ body {
 
 .title {
     font-size: 15px;
-    font-family: "MinecraftiaRegular";
+    font-family: "Minecraftia";
 }
 
 .banner {
@@ -17,7 +16,10 @@ body {
 }
 
 #counter {
-    font-size: 15px;
+  patch-4
+    font-size: 24px;
+    font-family: "Jersey 20";
+    font-size: 15px; main
 }
 
 #mainBTN {
@@ -48,7 +50,7 @@ body {
     text-align: center;
     font-weight: 200;
     font-size: 25px;
-    font-family: "MinecraftiaRegular";
+    font-family: "Minecraftia";
 }
     
 .shopItem {
@@ -56,7 +58,7 @@ body {
     border-radius: 10px;
     border: 1px solid black;
     font-size: 14px;
-    font-family: "MinecraftiaRegular";
+    font-family: "Minecraftia";
     color: black;
     margin: 2px;
     transition: 150ms;
