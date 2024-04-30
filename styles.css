@@ -16,8 +16,10 @@ body {
 }
 
 #counter {
+  patch-4
+    font-size: 24px;
     font-family: "Jersey 20";
-    font-size: 15px;
+    font-size: 15px; main
 }
 
 #mainBTN {
