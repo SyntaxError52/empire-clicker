@@ -13,7 +13,7 @@ body {
 
 .title {
     font-size: 12px;
-    font-family: 'MinecraftiaRegular';
+    font-family: 'Jersey 20';
 }
 
 .banner {
@@ -31,7 +31,7 @@ body {
     font-size: 75px;
     border: 3px solid;
     color: black;
-    background-color: #00a9fdaf;
+    background-color: #00a9fd79;
     border-radius: 20px;
     transition: 150ms;
     font-family: "Jersey 20";
