@@ -1,5 +1,4 @@
 body {
-    font-family: "Jersey 20";
     margin: 0;
     background-color: #8d8888;
     background-image: url('https://wallpaperwaifu.com/wp-content/uploads/2019/09/pixel-city-thumb.jpg');
@@ -14,10 +13,10 @@ body {
     padding: 5px;
     font-size: 15px;
     text-align: center;
-    font-family: "Minecraftia";
 }
 
 #counter {
+    font-family: "Jersey 20";
     font-size: 15px;
 }
 
