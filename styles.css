@@ -4,9 +4,16 @@ body {
     background-image: url('https://wallpaperwaifu.com/wp-content/uploads/2019/09/pixel-city-thumb.jpg');
 }
 
+@font-face {
+    font-family: 'MinecraftiaRegular';
+        src: url('/assets/fonts/minecraftia/71962a7e3d4a70435c030466a12f1d63/bf3f245b7cd53caea0cb07d265a64adc/MinecraftiaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
 .title {
     font-size: 15px;
-    font-family: "Minecraftia";
+    font-family: 'MinecraftiaRegular';
 }
 
 .banner {
@@ -16,10 +23,9 @@ body {
 }
 
 #counter {
-  patch-4
     font-size: 24px;
     font-family: "Jersey 20";
-    font-size: 15px; main
+    font-size: 15px;
 }
 
 #mainBTN {
@@ -50,7 +56,7 @@ body {
     text-align: center;
     font-weight: 200;
     font-size: 25px;
-    font-family: "Minecraftia";
+    font-family: 'MinecraftiaRegular';
 }
     
 .shopItem {
@@ -58,7 +64,7 @@ body {
     border-radius: 10px;
     border: 1px solid black;
     font-size: 14px;
-    font-family: "Minecraftia";
+    font-family: 'MinecraftiaRegular';
     color: black;
     margin: 2px;
     transition: 150ms;
@@ -77,4 +83,8 @@ body {
     scale: 110%;
     cursor: grabbing;
     border-radius: 10px;
+}
+
+#tradeoffs {
+    color: white;
 }
