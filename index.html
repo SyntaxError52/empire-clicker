@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Jersey+20&display=swap" rel="stylesheet">
     <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/minecraftia" type="text/css"/>
-    <title>Empire Clicker v1.4</title>
+    <title>Empire Clicker</title>
 </head>
 <body>
     <div class="title">Empire Clicker by SyntaxError52 and Cobblesteve01 <a href="https://github.com/SyntaxError52/empire-clicker" target="_blank">See Code</a></div>
@@ -19,7 +19,9 @@
         <p id="counter">0 Cities, 0 Cps</p>
     </div>
     <div class="shop">
-        <h2>Shop</h2>
+      <h2>Shop</h2>
+        <button class="shopItem" onclick="upgrade(1, 10)">War | +1 cps, -10 cities</button>
+        <button class="shopItem" onclick="upgrade(5, 100)">War | +5 cps, -100 cities</button><br>
         <button class="shopItem" onclick="upgrade(1, 10)">Houses | +1 cps, -10 cities</button><br>
         <button class="shopItem" onclick="upgrade(1, 100)">War | +5 cps, -100 cities</button><br>
         <button class="shopItem" onclick="upgrade(10, 1500)">Province | +10 cps, -1,500 cities</button><br>
