@@ -12,7 +12,7 @@ body {
       }
 
 .title {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Pixelify Sans";
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 #counter {
-    font-size: 20px;
+    font-size: 25px;
     font-family:"Pixelify Sans";
 }
 
@@ -60,7 +60,7 @@ body {
     background-color: #00a9fdaf;
     border-radius: 10px;
     border: 2px solid black;
-    font-size: 30px;
+    font-size: 23px;
     font-family:"Pixelify Sans";
     color: rgb(255, 255, 255);
     margin: 2px;
