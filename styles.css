@@ -1,3 +1,8 @@
+* {
+    /*Universal Text Shadow !!DO NOT DELETE!!*/
+    text-shadow: 2px 2px 3px black;
+}
+
 body {
     margin: 0;
     background-color: #8d8888;
