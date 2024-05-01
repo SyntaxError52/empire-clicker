@@ -23,6 +23,8 @@ v1.4
 
 v1.5
 - Fixed value of shop items
+- Added Shadow
+
 ## How to save
 1. Right click and click Inspect
 2. Go to console
