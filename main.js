@@ -37,8 +37,22 @@ function genSave(){
   console.log(`To save use type the following code: save(${cities}, ${cps})`)
 }
 
+// ! DO NOT EDIT
 function tradeOff(gift, cost){
   cities += cost;
   cps -= gift;
   alert('Soul Sold. >:)');
 }
+
+function powerup(){
+  cps *= 1.5 
+}
+
+const powerup = document.getElementById('powerup');
+
+setInterval(() => {
+  powerup.style.display = 'contents';
+  setTimeout(() => {
+    powerup.style.display = 'none';
+  }, 1000);
+}, 50000);

@@ -9,11 +9,11 @@ body {
         src: url('/assets/fonts/minecraftia/71962a7e3d4a70435c030466a12f1d63/bf3f245b7cd53caea0cb07d265a64adc/MinecraftiaRegular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-      }
+}
 
 .title {
     font-size: 12px;
-    font-family: 'MinecraftiaRegular';
+    font-family: 'MinecraftiaRegular', Verdana;
 }
 
 .banner {
@@ -24,7 +24,7 @@ body {
 
 #counter {
     font-size: 18px;
-    font-family: 'MinecraftiaRegular';
+    font-family: 'MinecraftiaRegular', Verdana;
 }
 
 #mainBTN {
@@ -53,15 +53,15 @@ body {
     text-align: center;
     font-weight: 200;
     font-size: 25px;
-    font-family: 'MinecraftiaRegular';
+    font-family: 'MinecraftiaRegular', Verdana;
 }
     
-.shopItem {
+.shopItem, .powerup {
     background-color: #00a9fdaf;
     border-radius: 10px;
     border: 2px solid black;
     font-size: 14px;
-    font-family: 'MinecraftiaRegular';
+    font-family: 'MinecraftiaRegular', Verdana;
     color: rgb(255, 255, 255);
     margin: 2px;
     transition: 150ms;
@@ -69,6 +69,9 @@ body {
     width: 500px;
 }
 
+.powerup {
+    display: none;
+}
 
 .shopItem:hover { 
     scale: 105%;
