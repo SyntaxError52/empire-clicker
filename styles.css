@@ -24,7 +24,7 @@ body {
 
 #counter {
     font-size: 25px;
-    font-family:"Pixelify Sans";
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 #mainBTN {
