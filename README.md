@@ -1,4 +1,7 @@
 # Empire-Clicker
+This is the better version of Cookie Clicker! To get more fonts, download the ZIP file. <b>YOU MUST EXTRACT THE ZIP ON WINDOWS!</b> Anyway, just scroll to see more info.
+
+
 ## Changelog
 v1.0 
 - Added Main System, Added first 4 upgrades
@@ -30,6 +33,7 @@ v1.4.2
 5. Now if you reload you can load the save by using that code
 
 ## Developers
+
 ### SyntaxError52
 - Created the project
 - Has great ideas
