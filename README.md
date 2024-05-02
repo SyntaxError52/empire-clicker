@@ -25,6 +25,8 @@ v1.5
 - Added Shadow
 - Added Nuclear Wars
 
+v1.6
+- Nerfed Shop Items
 ## How to save
 1. Right click and click Inspect
 2. Go to console
