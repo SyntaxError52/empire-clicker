@@ -24,6 +24,7 @@ v1.5
 - Fixed value of shop items
 - Added Shadow
 - Added Nuclear Wars
+- Nerfed the houses upgrade because SyntaxError said it was too OP :/
 
 v1.6
 - Nerfed Shop Items
@@ -41,6 +42,9 @@ v1.6
 - Has great ideas
 - Likes History
 - Yea, that's it
+- Knows JavaScript
+- Knows HTML
+- Did the scripts and the HTML for the project.
 
 ### cobblesteve-dev
 - Helped with CSS
@@ -48,3 +52,7 @@ v1.6
 - Just Better
 - Has over 1,000 subs on YouTube
 - You should subscribe
+- Can kinda code in JavaScript
+- Knows HTML
+- Did the CSS for the project
+- :D
