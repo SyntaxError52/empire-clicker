@@ -17,13 +17,13 @@ v1.3
 - Added Github link
 
 v1.4
-- Added Trade Off lv 1 - 4
+- Added Trade Off Levels 1 - 4
 - Nerfed Trade Offs
-- Controlled Trade offs
 
 v1.5
 - Fixed value of shop items
 - Added Shadow
+- Added Nuclear Wars
 
 ## How to save
 1. Right click and click Inspect
