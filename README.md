@@ -24,10 +24,13 @@ v1.5
 - Fixed value of shop items
 - Added Shadow
 - Added Nuclear Wars
-- Nerfed the houses upgrade because SyntaxError said it was too OP :/
 
 v1.6
-- Nerfed Shop Items
+- Nerfed the houses upgrade because SyntaxError said it was too OP :/
+- Better Favicon
+- Bug fixes and other tweaks
+
+
 ## How to save
 1. Right click and click Inspect
 2. Go to console
