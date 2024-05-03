@@ -12,6 +12,9 @@ console.log('[4. If all is working the genSave function should generate code tha
 console.log('[5. Now if you reload you can load the save by using that code]')
 console.log('[Don\'t worry! A new save/load system is currently being worked on.]')
 
+
+console.log(['[Note from cobblesteve: if you want to suggest something, we\'ll have a form for that soon.]'])
+
 function update(){
   document.getElementById('counter').innerHTML = `${cities} Cities, ${cps} Cps`;
 }
