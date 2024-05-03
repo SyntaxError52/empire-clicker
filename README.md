@@ -30,6 +30,9 @@ v1.6
 - Better Favicon
 - Bug fixes and other tweaks
 
+v1.7
+- Level 5 tradeoff
+- Some bug fixes
 
 ## How to save
 1. Right click and click Inspect
