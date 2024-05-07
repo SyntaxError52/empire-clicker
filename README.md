@@ -38,7 +38,7 @@ v1.8
 - Nerfed war becuase I said it was too OP :)
 
 v1.9
-- Added Achievments
+- Added 404.md
 ## How to save
 1. Right click and click Inspect
 2. Go to console
