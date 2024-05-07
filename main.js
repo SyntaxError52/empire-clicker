@@ -13,17 +13,8 @@ console.log('[Don\'t worry! A new save/load system is currently being worked on.
 
 console.log(['[Note from cobblesteve: if you want to suggest something, we\'ll have a form for that soon.]'])
 
-function seeAchievment(){
-  if (cities === 999){
-    window.alert('<b>So Close</b> \n Have 999 cities');
-  } else if (cities === 0){
-    window.alert('<b>Getting Started</b> \n Have 0 cities')
-  }
-}
-
 function update(){
   document.getElementById('counter').innerHTML = `${cities} Cities, ${cps} Cps`;
-  seeAchievment();
 }
 
 function add(){
