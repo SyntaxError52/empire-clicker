@@ -1,5 +1,5 @@
 # Empire Clicker
-This is the better, simpler, and more lightweight version of Cookie Clicker! For offline access, download the ZIP file. <b>YOU MUST EXTRACT THE ZIP ON WINDOWS AND MACBOOKS!</b> On Chromebooks, the ZIP file will work without extracting.
+This is the worse, simpler, and more lightweight version of Cookie Clicker! For offline access, download the ZIP file. <b>YOU MUST EXTRACT THE ZIP ON WINDOWS AND MACBOOKS!</b> On Chromebooks, the ZIP file will work without extracting.
 
 
 ## Changelog
