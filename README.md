@@ -55,15 +55,15 @@ v1.9
 - Yea, that's it
 - Knows JavaScript
 - Knows HTML
+- Knows Python
+- Just better
 - Did the scripts and the HTML for the project.
 
 ### cobblesteve-dev
 - Helped with CSS
 - Good friends with SyntaxError
-- Just Better
+- Just Worse
 - Has over 1,000 subs on YouTube
 - You should subscribe
-- Can kinda code in JavaScript
 - Knows HTML
-- Did the CSS for the project
-- :D
+- Did the CSS for the project\
